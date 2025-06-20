@@ -1,1 +1,11 @@
 .vs/
+.exe
+.obj
+.pdb
+.ilk
+.log
+.tlog
+.idb
+.cache
+x64/
+calculator/x64/
