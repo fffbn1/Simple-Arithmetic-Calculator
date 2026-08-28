@@ -7,5 +7,5 @@ Goals:
 - Implement stack and queues
 - Learn C++ syntax 
 
-Purpose: to calculate expressions in infix notation by first converting it to postfix notation using the Shunting Yard Algorithm and then evaluating it. 
+Purpose: to calculate expressions entered by the user in infix notation by first converting it to postfix notation using the Shunting Yard Algorithm and then evaluating it. 
 
