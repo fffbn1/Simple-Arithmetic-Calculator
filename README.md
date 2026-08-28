@@ -1,6 +1,4 @@
-﻿simple-calculator
-
-Project: Basic Arithmetic Calculator using Infix-Postfix Conversion. 
+﻿Project: Basic Arithmetic Calculator using Infix-Postfix Conversion. 
 	
 Goals:
 - Understand and implement Postfix (Reverse Polish Notation), Infix notation and Shunting Yard Algorithm concepts.
